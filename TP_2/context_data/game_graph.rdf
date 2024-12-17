@@ -1,0 +1,218 @@
+@prefix ns1: <http://flaiba.org/rajasganges/> .
+
+ns1:1878 ns1:type "Year" .
+
+ns1:1987 ns1:type "Year" .
+
+ns1:1990 ns1:type "Year" .
+
+ns1:1996 ns1:type "Year" .
+
+ns1:2001 ns1:type "Year" .
+
+ns1:2017%20Meeples%20Choice%20Award%20Nominee ns1:type "Award" .
+
+ns1:2018%20International%20Gamers%20Award%20-%20General%20Strategy%3A%20Multi-player%20Nominee ns1:type "Award" .
+
+ns1:2018%20International%20Gamers%20Award%20-%20General%20Strategy%3A%20Multi-player%20Winner ns1:type "Award" .
+
+ns1:2018%20Juego%20del%20A%C3%B1o%20Recommended ns1:type "Award" .
+
+ns1:2019%20MinD-Spielepreis%20Complex%20Game%20Nominee ns1:type "Award" .
+
+ns1:2021 ns1:type "Year" .
+
+ns1:999%20Games ns1:Country ns1:Country%3A%20Denmark ;
+    ns1:YearFounded ns1:1990 ;
+    ns1:type "Publisher" .
+
+ns1:A%20Feast%20for%20Odin ns1:type "TopGame" .
+
+ns1:Ark%20Nova ns1:type "TopGame" .
+
+ns1:Country%3A%20Brazil ns1:type "Country" .
+
+ns1:Country%3A%20Italy ns1:type "Country" .
+
+ns1:Country%3A%20Poland ns1:type "Country" .
+
+ns1:Country%3A%20Russia ns1:type "Country" .
+
+ns1:DV%20Games ns1:Country ns1:Country%3A%20Italy ;
+    ns1:YearFounded ns1:2001 ;
+    ns1:type "Publisher" .
+
+ns1:Dennis%20Lohausen ns1:Country ns1:Germany ;
+    ns1:Microbadge ns1:Dennis%20Lohausen%20fan ;
+    ns1:Top%20Game ns1:A%20Feast%20for%20Odin,
+        ns1:Ark%20Nova,
+        ns1:Fields%20of%20Arle,
+        ns1:Gaia%20Project,
+        ns1:Terra%20Mystica,
+        ns1:The%20Quacks%20of%20Quedlinburg ;
+    ns1:type "Designer" .
+
+ns1:Dennis%20Lohausen%20fan ns1:type "Microbadge" .
+
+ns1:Devir ns1:Country ns1:Country%3A%20Brazil ;
+    ns1:YearFounded ns1:1987 ;
+    ns1:type "Publisher" .
+
+ns1:Dice ns1:type "Category" .
+
+ns1:Dice%20Drafting ns1:type "Mechanism" .
+
+ns1:Dice%20Realm ns1:YearFounded ns1:2021 ;
+    ns1:type "Publisher" .
+
+ns1:Economic ns1:type "Category" .
+
+ns1:Egmont%20Polska ns1:Country ns1:Country%3A%20Poland ;
+    ns1:YearFounded ns1:1878 ;
+    ns1:type "Publisher" .
+
+ns1:Fabrika%20Igr ns1:Country ns1:Country%3A%20Russia ;
+    ns1:type "Publisher" .
+
+ns1:Fields%20of%20Arle ns1:type "TopGame" .
+
+ns1:Gaia%20Project ns1:type "TopGame" .
+
+ns1:Game%20Harbor ns1:YearFounded ns1:2017 ;
+    ns1:type "Publisher" .
+
+ns1:Ganges ns1:Language ns1:de ;
+    ns1:type "AlternateName" .
+
+ns1:HOT%20Games ns1:Country ns1:Country%3A%20Denmark ;
+    ns1:type "Publisher" .
+
+ns1:HUCH%21 ns1:YearFounded ns1:2017 ;
+    ns1:type "Publisher" .
+
+ns1:Hinduism ns1:type "Religious" .
+
+ns1:India ns1:type "Country" .
+
+ns1:Inka%20Brand ns1:Award ns1:2012%20Spiel%20des%20Jahres%20Kennerspiel%20des%20Jahres%20Winner ;
+    ns1:Country ns1:Germany ;
+    ns1:Microbadge ns1:Inka%20Brand%20fan,
+        ns1:Markus%20Brand%20fan ;
+    ns1:Top%20Game ns1:Dead%20Man%20on%20the%20Orient%20Express,
+        ns1:Rajas%20of%20the%20Ganges,
+        ns1:The%20Abandoned%20Cabin,
+        ns1:The%20Pharaoh%27s%20Tomb,
+        ns1:The%20Secret%20Lab,
+        ns1:Village ;
+    ns1:type "Creator" .
+
+ns1:Markus%20Brand ns1:Award ns1:2012%20Spiel%20des%20Jahres%20Kennerspiel%20des%20Jahres%20Winner ;
+    ns1:Country ns1:Germany ;
+    ns1:Microbadge ns1:Inka%20Brand%20fan,
+        ns1:Markus%20Brand%20fan ;
+    ns1:Top%20Game ns1:Dead%20Man%20on%20the%20Orient%20Express,
+        ns1:Rajas%20of%20the%20Ganges,
+        ns1:The%20Abandoned%20Cabin,
+        ns1:The%20Pharaoh%27s%20Tomb,
+        ns1:The%20Secret%20Lab,
+        ns1:Village ;
+    ns1:type "Creator" .
+
+ns1:Prince%20of%20the%20Ganges ns1:Language ns1:ja ;
+    ns1:type "AlternateName" .
+
+ns1:R%26R%20Games ns1:YearFounded ns1:1996 ;
+    ns1:type "Publisher" .
+
+ns1:Raja%20of%20the%20Ganges ns1:Language ns1:ko ;
+    ns1:type "AlternateName" .
+
+ns1:Rajah%20Ganga ns1:Language ns1:bg ;
+    ns1:type "AlternateName" .
+
+ns1:Renaissance ns1:type "Category" .
+
+ns1:Tabletopia ns1:type "Digital Implementations" .
+
+ns1:Terra%20Mystica ns1:type "TopGame" .
+
+ns1:Territory%20Building ns1:type "Category" .
+
+ns1:The%20Quacks%20of%20Quedlinburg ns1:type "TopGame" .
+
+ns1:The%20Rajas%20of%20the%20Ganges ns1:Language ns1:ca ;
+    ns1:type "AlternateName" .
+
+ns1:Yucata ns1:type "Digital Implementations" .
+
+ns1:bg ns1:type "Language" .
+
+ns1:ca ns1:type "Language" .
+
+ns1:de ns1:type "Language" .
+
+ns1:ja ns1:type "Language" .
+
+ns1:ko ns1:type "Language" .
+
+ns1:nl ns1:type "Language" .
+
+ns1:2012%20Spiel%20des%20Jahres%20Kennerspiel%20des%20Jahres%20Winner ns1:type "Award" .
+
+ns1:Country%3A%20Denmark ns1:type "Country" .
+
+ns1:Dead%20Man%20on%20the%20Orient%20Express ns1:type "TopGame" .
+
+ns1:Inka%20Brand%20fan ns1:type "Microbadge" .
+
+ns1:Markus%20Brand%20fan ns1:type "Microbadge" .
+
+ns1:The%20Abandoned%20Cabin ns1:type "TopGame" .
+
+ns1:The%20Pharaoh%27s%20Tomb ns1:type "TopGame" .
+
+ns1:The%20Secret%20Lab ns1:type "TopGame" .
+
+ns1:Village ns1:type "TopGame" .
+
+ns1:2017 ns1:type "Year" .
+
+ns1:Germany ns1:type "Country" .
+
+ns1:Rajas%20of%20the%20Ganges ns1:Alternate%20Name ns1:Ganges,
+        ns1:Prince%20of%20the%20Ganges,
+        ns1:Raja%20of%20the%20Ganges,
+        ns1:Rajah%20Ganga,
+        ns1:Rajas%20of%20the%20Ganges,
+        ns1:The%20Rajas%20of%20the%20Ganges ;
+    ns1:Award ns1:2017%20Meeples%20Choice%20Award%20Nominee,
+        ns1:2018%20International%20Gamers%20Award%20-%20General%20Strategy%3A%20Multi-player%20Nominee,
+        ns1:2018%20International%20Gamers%20Award%20-%20General%20Strategy%3A%20Multi-player%20Winner,
+        ns1:2018%20Juego%20del%20A%C3%B1o%20Recommended,
+        ns1:2019%20MinD-Spielepreis%20Complex%20Game%20Nominee ;
+    ns1:Category ns1:Dice,
+        ns1:Economic,
+        ns1:Renaissance,
+        ns1:Territory%20Building ;
+    ns1:Country ns1:India ;
+    ns1:Creator ns1:Inka%20Brand,
+        ns1:Markus%20Brand ;
+    ns1:Designer ns1:Dennis%20Lohausen ;
+    ns1:Digital%20Implementations ns1:Tabletopia,
+        ns1:Yucata ;
+    ns1:Language ns1:nl ;
+    ns1:Mechanism ns1:Dice%20Drafting ;
+    ns1:Publisher ns1:999%20Games,
+        ns1:DV%20Games,
+        ns1:Devir,
+        ns1:Dice%20Realm,
+        ns1:Egmont%20Polska,
+        ns1:Fabrika%20Igr,
+        ns1:Game%20Harbor,
+        ns1:HOT%20Games,
+        ns1:HUCH%21,
+        ns1:R%26R%20Games ;
+    ns1:Religious ns1:Hinduism ;
+    ns1:Year ns1:2017 ;
+    ns1:type "TopGame" .
+
