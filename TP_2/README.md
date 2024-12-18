@@ -47,6 +47,6 @@ Agente ReAct
 * Librerías
 * Configuraciones
 * Generación de contexto
-* Agente
+* Agente ReAct
 
 
